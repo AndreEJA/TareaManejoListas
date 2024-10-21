@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Ejercicio de Listas\bin\Debug\net6.0\Ejercicio de Listas.exe
+C:\Users\Andre\source\repos\Ejercicio de Listas\bin\Debug\net6.0\Ejercicio de Listas.deps.json
+C:\Users\Andre\source\repos\Ejercicio de Listas\bin\Debug\net6.0\Ejercicio de Listas.runtimeconfig.json
+C:\Users\Andre\source\repos\Ejercicio de Listas\bin\Debug\net6.0\Ejercicio de Listas.dll
+C:\Users\Andre\source\repos\Ejercicio de Listas\bin\Debug\net6.0\Ejercicio de Listas.pdb
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.dll
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\refint\Ejercicio de Listas.dll
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.pdb
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\Ejercicio de Listas.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Ejercicio de Listas\obj\Debug\net6.0\ref\Ejercicio de Listas.dll
